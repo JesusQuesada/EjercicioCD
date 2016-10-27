@@ -17,6 +17,8 @@ public class EjercicioCD {
     public static void main(String[] args) {
         // TODO code application logic here
         System.err.println("Creo nuevo proyecto y primer commit");
+        System.out.println("Voy a crear una nueva rama despues del siguiente commit");
+        
     }
     
 }
