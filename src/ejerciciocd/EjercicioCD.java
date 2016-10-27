@@ -19,6 +19,8 @@ public class EjercicioCD {
         System.err.println("Creo nuevo proyecto y primer commit");
         System.out.println("Voy a crear una nueva rama despues del siguiente commit");
         System.err.println("Primer cambio");
+        System.err.println("Segundo cambio");
+        
     }
     
 }
